@@ -1,2 +1,4 @@
-Krish Patel
-patelkrish38
+Full Name: Krish Patel
+User Name: patelkrish38
+Email: kp008723@ohio.edu
+Answers recorded on answers.md
